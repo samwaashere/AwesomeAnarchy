@@ -2,7 +2,7 @@
 
 Here's a list of resources you can use to explore & contribute to the new anarchist economy. By anarchist economy, I'm referring to the movement of people seeking to build new models of collaboration & governance which redistribute power to individuals & communities instead of corporations. 
 
-> Help wanted: Please help contribute new resources! You can submit as aa github issue or pull request. Thank you!
+> Help wanted: Please help contribute new links! 
 
 This document includes:
 
